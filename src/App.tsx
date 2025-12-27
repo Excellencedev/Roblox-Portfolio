@@ -175,7 +175,7 @@ const projects: Project[] = [
     category: "System Architecture",
     description: "A highly optimized, modular FPS gun framework featuring client-side prediction, server-side validation (anti-cheat), and recoil patterns.",
     tags: ["Luau", "OOP", "Networking", "Raycasting"],
-    imageUrl: "/images/image1.webp"
+    imageUrl: "./images/image1.webp"
   },
   {
     id: 2,
@@ -183,7 +183,7 @@ const projects: Project[] = [
     category: "Backend Systems",
     description: "Robust data persistence system using ProfileService with session locking, auto-saving, and duplicate prevention for a 50k+ CCU tycoon game.",
     tags: ["DataStore", "ProfileService", "Rest API"],
-    imageUrl: "/images/image2.webp"
+    imageUrl: "./images/image2.webp"
   },
   {
     id: 3,
@@ -191,7 +191,7 @@ const projects: Project[] = [
     category: "User Interface",
     description: "Fully animated, reactive UI built with Roact/Fusion. Includes secure trading logic, drag-and-drop functionality, and mobile support.",
     tags: ["Roact", "Fusion", "UI/UX", "Secure RemoteEvents"],
-    imageUrl: "/images/image3.webp"
+    imageUrl: "./images/image3.webp"
   },
   {
     id: 4,
@@ -199,7 +199,7 @@ const projects: Project[] = [
     category: "Game Mechanics",
     description: "Dynamic shrinking zone system with safe circles, damage ticks, and visual effects synchronized across all clients using custom replication.",
     tags: ["Math", "TweenService", "Replication"],
-    imageUrl: "/images/image4.webp"
+    imageUrl: "./images/image4.webp"
   },
   {
     id: 5,
@@ -207,7 +207,7 @@ const projects: Project[] = [
     category: "Tools",
     description: "Secure, permission-based admin panel with logging, banning, kicking, and spectating features. Custom UI integration with OAuth.",
     tags: ["Security", "UI", "Datastore"],
-    imageUrl: "/images/image5.webp"
+    imageUrl: "./images/image5.webp"
   },
   {
     id: 6,
@@ -215,7 +215,7 @@ const projects: Project[] = [
     category: "Gameplay Loop",
     description: "Complete pet hatching, equipping, and multiplier calculation system. Optimized for high entity counts and massive data tables.",
     tags: ["OOP", "Inventory", "Math"],
-    imageUrl: "/images/image1.webp"
+    imageUrl: "./images/image1.webp"
   }
 ];
 
